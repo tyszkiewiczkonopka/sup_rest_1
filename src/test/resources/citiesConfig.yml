@@ -1,0 +1,10 @@
+cities:
+ - name: London
+   usStateCode:
+   countryCodeIso3166: GB
+ - name: Oxford
+   usStateCode:
+   countryCodeIso3166: GB
+ - name: Gdańsk
+   usStateCode:
+   countryCodeIso3166: PL

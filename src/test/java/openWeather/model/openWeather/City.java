@@ -1,4 +1,4 @@
-package openWeather.model;
+package openWeather.model.openWeather;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;
