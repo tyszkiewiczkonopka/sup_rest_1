@@ -7,7 +7,7 @@ import java.util.List;
 @Getter
 public class Config {
 
-    private List<City> cities;
+    private List<CityConfiguration> cities;
 
     public Config() {
     }

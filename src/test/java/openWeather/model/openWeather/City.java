@@ -14,4 +14,13 @@ public class City {
     City() {
 
     }
+
+    @Override
+    public String toString() {
+        return "City name='" + name + '\'' +
+                ", country='" + country + '\'' +
+                ", latitute=" + lat +
+                ", longitude=" + lon +
+                '}';
+    }
 }
